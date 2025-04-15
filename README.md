@@ -1,2 +1,14 @@
-# Students-Performance-Analysis
-This project aims to analyze and assess student performance data in order to derive meaningful insights, trends, and patterns. By using various data analysis techniques, we aim to evaluate academic performance, understand factors influencing success or failure, and propose recommendations for improving student outcomes.
+Students Performance Analysis
+A simple yet insightful project where I explored and visualized students' academic performance based on factors like gender, parental education, and test preparation.
+
+Tools used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+What I did:
+
+Cleaned and explored the dataset
+
+Created visualizations to find performance patterns
+
+Derived insights on how background factors affect student scores
+
+Status: Completed | Great for beginners in data analysis!
