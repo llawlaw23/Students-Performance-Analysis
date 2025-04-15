@@ -1,4 +1,4 @@
-Students Performance Analysis
+##  Students' Performance Analysis
 A simple yet insightful project where I explored and visualized students' academic performance based on factors like gender, parental education, and test preparation.
 
 Tools used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
